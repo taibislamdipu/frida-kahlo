@@ -1,5 +1,9 @@
 
 
+html {
+    scroll-behavior: smooth;
+  }
+
 body{
     background-color: gainsboro;
 }
@@ -20,4 +24,14 @@ header{
 .art-container img{
     width: 400px;
     height: 400px;
+}
+
+.button {
+    
+  }
+
+.button:hover{
+    font-size: bold;
+    color: crimson;
+
 }
